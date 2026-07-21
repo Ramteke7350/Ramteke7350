@@ -1,4 +1,3 @@
-```md
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Yash Ramteke
 =======================================================================================================================================
 
@@ -32,4 +31,3 @@ Geting strong command on Java and app Dev
 <a href="http://www.github.com/Ashutosh846"><img src="https://github-readme-stats.vercel.app/api?username=Ashutosh846&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="GitHub stats" /></a>
 
 <a href="https://github.com/Ashutosh846" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashutosh846&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" /></a>
-```
