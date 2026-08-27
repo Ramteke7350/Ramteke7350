@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 SQL for Databases (VIBE coding)
 ------------------------------------
 
-I am a third year student
+I am a 3rd year student
 
 Geting strong command on Java and app Dev
 
